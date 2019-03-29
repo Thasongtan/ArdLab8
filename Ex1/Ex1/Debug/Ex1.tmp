@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\netlab\Documents\Atmel Studio\7.0\Ex1\Ex1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\netlab\Documents\Atmel Studio\7.0\Ex1\Ex1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\netlab\Documents\Atmel Studio\7.0\Ex1\Ex1\Debug\Ex1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Ex1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Ex1.map</FILE>
+  <FILE>Ex1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Main><FILE>c:\users\netlab\Documents\Atmel Studio\7.0\Ex1\Ex1\main.asm</FILE><LINE>10</LINE></Main>
+  <Int0_ISR><FILE>c:\users\netlab\Documents\Atmel Studio\7.0\Ex1\Ex1\main.asm</FILE><LINE>54</LINE></Int0_ISR>
+  <Loop><FILE>c:\users\netlab\Documents\Atmel Studio\7.0\Ex1\Ex1\main.asm</FILE><LINE>32</LINE></Loop>
+  <TogLED><FILE>c:\users\netlab\Documents\Atmel Studio\7.0\Ex1\Ex1\main.asm</FILE><LINE>37</LINE></TogLED>
+  <Delay><FILE>c:\users\netlab\Documents\Atmel Studio\7.0\Ex1\Ex1\main.asm</FILE><LINE>44</LINE></Delay>
+  <delay_dec><FILE>c:\users\netlab\Documents\Atmel Studio\7.0\Ex1\Ex1\main.asm</FILE><LINE>47</LINE></delay_dec>
+ </LABELS>
+</ASSEMBLER_INFO>
